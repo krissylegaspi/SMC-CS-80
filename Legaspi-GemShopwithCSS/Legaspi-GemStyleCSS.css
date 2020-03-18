@@ -1,0 +1,42 @@
+/* Kristine Legaspi
+01/26/2020 */
+
+body {
+  color: #000000;
+  background-color: lightgreen;
+}
+
+#outerwrapper {
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+
+#main {
+  font-family: 'Times New Roman', sans-serif;
+  background-color: #D9F1C1;
+  padding: 10px;
+
+}
+
+header {
+  font-family: 'Calibri', 'Arial', sans-serif;
+}
+
+nav {
+  font-family: 'Calibri', 'Arial', sans-serif;
+  clear: both;
+}
+
+footer {
+  font-family: 'Calibri', 'Arial', sans-serif;
+  font-size: 0.75em;
+  text-align: center;
+}
+
+img {
+  float: left
+}
+
+.addrightmargin {
+  margin-right: 2%;
+}
