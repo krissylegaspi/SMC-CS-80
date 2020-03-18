@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Kristine Legaspi</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="">
+</head>
+
+<body>
+
+  <script type="text/javascript">
+    var myheading = "This is My Web Page!",
+      linktag = "<a href='http://www.smc.edu/Pages/Home.aspx'>SMC Website!</a>",
+      Introtext = "See below for odd number stars",
+      begineffect = "<strong>",
+      endeffect = "</strong>",
+      beginpara = "<p>",
+      endpara = "</p>";
+
+    document.body.innerHTML = beginpara + myheading + endpara + linktag + beginpara + begineffect + Introtext +
+      endeffect + endpara;
+
+    var input = window.prompt("Enter a number between 1 and 20.", 0);
+
+    for (var k = 0; k < input; k += 2) {
+      for (var j = 0; j <= k; j++) {
+        document.body.innerHTML += "*";
+      }
+      document.body.innerHTML += "<br><br>";
+    }
+    document.body.innerHTML += beginpara + "Good Job!" + endpara;
+  </script>
+
+
+</body>
+
+</html>
