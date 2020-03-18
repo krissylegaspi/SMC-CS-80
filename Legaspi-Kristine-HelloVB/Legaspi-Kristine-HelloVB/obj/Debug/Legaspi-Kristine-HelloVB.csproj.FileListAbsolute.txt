@@ -1,0 +1,9 @@
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\obj\Debug\Legaspi-Kristine-HelloVB.csprojAssemblyReference.cache
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\obj\Debug\Legaspi_Kristine_HelloVB.Form1.resources
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\obj\Debug\Legaspi_Kristine_HelloVB.Properties.Resources.resources
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\obj\Debug\Legaspi-Kristine-HelloVB.csproj.GenerateResource.cache
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\bin\Debug\Legaspi-Kristine-HelloVB.exe.config
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\bin\Debug\Legaspi-Kristine-HelloVB.exe
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\bin\Debug\Legaspi-Kristine-HelloVB.pdb
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\obj\Debug\Legaspi-Kristine-HelloVB.exe
+C:\Users\Kristine\Desktop\Assignment 6\Legaspi-Kristine-HelloVB\Legaspi-Kristine-HelloVB\obj\Debug\Legaspi-Kristine-HelloVB.pdb
